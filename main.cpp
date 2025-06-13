@@ -1,6 +1,6 @@
-#include <iostream>
-
+import std;
+ 
 int main()
 {
-  std::cout << "Hello World!" << std::endl;
+    std::println("Hello World!");
 }
